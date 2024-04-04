@@ -4,6 +4,7 @@
 
 > Tomado y adaptado de: https://refactoring.guru/es/design-patterns/abstract-factory/java/example
 
+![Diagrama de clases](https://refactoring.guru/images/patterns/diagrams/abstract-factory/example.png)
 
 En este ejemplo, los botones y las casillas actuarán como productos. Tienen dos variantes: macOS y Windows.
 
